@@ -35,6 +35,9 @@ Access to clean drinking water is a critical challenge in Tanzania due to failin
 - Improve resource allocation using predictive insights.
 - Continuously update the model with new well data to improve accuracy.
 
- For More Information
+ 
 See the full analysis in the Jupyter Notebook or review this Presentation.
+
+ For additional information contact:
+
 * [Diana Ogeto] at [dianaogeto0@gmail.com].
