@@ -22,12 +22,19 @@ Access to clean drinking water is a critical challenge in Tanzania due to failin
 4. **Evaluation:** Assessing the model's accuracy, precision, recall, and overall performance.
 
 ## Results
-- **Key Findings:** Certain factors (e.g., construction year, waterpoint_type, extraction_type) strongly influence well failures.
-- **Model Performance:** The model provides accurate predictions to support maintenance planning.
-
+- **Model Performance:** Best Performing Model: XGBoost with Hyperparameter Tuning
+- Confusion Matrix: Shows fewer misclassifications compared to other models
+- ROC-AUC: High values indicate strong classification performance
+  
+## Visualizations
+- For better business understanding, the following visualizations were created in Tableau:
+  [View Tableau Dashboard](https://public.tableau.com/views/Book2_17413502549780/AnalysisofWellFunctionalityinTanzania?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  
 ## Recommendations
 - Focus maintenance efforts on wells predicted to fail.
 - Improve resource allocation using predictive insights.
 - Continuously update the model with new well data to improve accuracy.
 
-
+ For More Information
+See the full analysis in the Jupyter Notebook or review this Presentation.
+* [Diana Ogeto] at [dianaogeto0@gmail.com].
